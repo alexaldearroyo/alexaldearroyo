@@ -1,4 +1,4 @@
-Hello there! I'm Alex Arroyo.
+👋 Hello there! I'm Alex Arroyo.
 
 A passionate software engineer with a knack for problem-solving and creating efficient, user-friendly solutions.
 
