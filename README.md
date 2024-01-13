@@ -18,6 +18,10 @@ A passionate software engineer with a knack for problem-solving and creating eff
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexaldearroyo&layout=compact&theme=dark)
 
+## My Articles
+
+Check out my articles on [Medium](https://medium.com/@alexaldearroyo).
+
 ## Connect with Me
 [![LinkedIn Badge](https://img.shields.io/badge/-Alex_Arroyo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexaldearroyo/)](https://www.linkedin.com/in/alexaldearroyo/)
 [![Twitter Badge](https://img.shields.io/badge/-alexaldearroyo-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=http://twitter.com/alexaldearroyo)](http://twitter.com/alexaldearroyo)
