@@ -23,8 +23,6 @@ A passionate software engineer with a knack for problem-solving and creating eff
 Check out my articles on [Medium](https://medium.com/@alexaldearroyo).
 
 ## Connect with Me
-[![LinkedIn Badge](https://img.shields.io/badge/-Alex_Arroyo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexaldearroyo/)](https://www.linkedin.com/in/alexaldearroyo/)
-[![Twitter Badge](https://img.shields.io/badge/-alexaldearroyo-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=http://twitter.com/alexaldearroyo)](http://twitter.com/alexaldearroyo)
-[![Email Badge](https://img.shields.io/badge/-alexaldearroyo%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexaldearroyo@gmail.com)](mailto:alexaldearroyo@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/alexaldearroyo/) • [Twitter](http://twitter.com/alexaldearroyo) • [Email](mailto:alexaldearroyo@gmail.com)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
