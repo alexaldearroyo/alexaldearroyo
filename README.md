@@ -1,6 +1,6 @@
 👋 Hello there! I'm Alex Arroyo.
 
-A passionate software engineer with a knack for problem-solving and creating efficient, user-friendly solutions.
+A passionate software developer with a knack for problem-solving and creating efficient, user-friendly solutions.
 
 ## Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
